@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Developers | Tech Enthusiasts | Problem Solvers</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maham38&label=Profile%20views&color=0e75b6&style=flat" alt="maham38" />
+  <img src="https://komarev.com/ghpvc/?username=Maham38&label=Profile%20views&color=0e75b6&style=flat" alt="Maham38" />
 </p>
 
 ---
@@ -49,15 +49,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maham38&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maham38&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maham38&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maham38&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maham38&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maham38&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
